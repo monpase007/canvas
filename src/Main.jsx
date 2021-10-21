@@ -134,7 +134,7 @@ function Main() {
     <>
       <div className="App">
         <div className="appSignature title">
-        Модель Лодки-Вольтерры. Выполнил Филиппов Юрий.
+        Модель Лотки-Вольтерры. Выполнил Филиппов Юрий.
         </div>
         {Object.keys(canvas).map((el, index) => (
           <div className="container">
